@@ -6,7 +6,8 @@
 *.lo
 *.o
 *.obj
-
+.vscode/
+洛谷刷题/*.exe
 # Precompiled Headers
 *.gch
 *.pch
